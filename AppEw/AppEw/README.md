@@ -10,3 +10,6 @@ React Native
 React Hooks (useState)
 FlatList para renderização de listas
 Switch, TextInput, Button, Image e View para interface
+
+
+https://snack.expo.dev/@ewertonmonteiro/appew
